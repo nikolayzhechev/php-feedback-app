@@ -1,0 +1,3 @@
+docker-compose.yaml
+.env
+/db_data
